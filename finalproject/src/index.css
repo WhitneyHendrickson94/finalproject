@@ -1,0 +1,65 @@
+.logo{
+  width:300px;
+  height: 300px;
+}
+.CoverInfo{
+  justify-items: center;
+  align-content: center;
+  align-items: center;
+}
+.CoverPhoto{
+  max-width: 100%;
+  padding-bottom: 0px;
+}
+#StartFundButtonDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#StartAFundButton{
+width: 75%;
+padding-top: 15px;
+padding-bottom: 15px;
+margin-bottom: 0px;
+
+
+}
+.OurMission{
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.StepNumber{
+  width: 200px;
+  height: 200px; 
+}
+
+#StepInformation{
+  text-align: center;
+  justify-content: center;
+  padding: 50px 0;
+
+}
+
+#contactform{
+  margin: 100px;
+}
+
+ul{
+  list-style: none;
+}
+
+#fundCard{
+  margin: 25px;
+}
+
+#donateButton{
+  justify-items: right;
+}
+
+#storyPhoto{
+width: 300px;
+height: 300px;
+}
